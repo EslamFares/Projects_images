@@ -1,5 +1,5 @@
 {
-  "isUpdate": false,
+  "isUpdate": true,
   "profile": {
     "name": "Eslam Elazab",
     "mail": "eslamelazab111@gmail.com",
@@ -44,7 +44,7 @@
     "primaryButtonText": "Start a Project",
     "primaryButtonLink": "mailto:eslamelazab111@gmail.com",
     "secondaryButtonText": "View Projects",
-    "footerText": "© 2026 Eslam Elazab"
+    "footerText": "© 2026 Eslam Elazab ..."
   },
   "projects": [
     {
