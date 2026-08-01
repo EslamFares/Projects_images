@@ -44,7 +44,7 @@
     "primaryButtonText": "Start a Project",
     "primaryButtonLink": "mailto:eslamelazab111@gmail.com",
     "secondaryButtonText": "View Projects",
-    "footerText": "© 2026 Eslam Elazab ..."
+    "footerText": "© 2026 Eslam Elazab ... v(12.15.1.8.26)"
   },
   "projects": [
     {
@@ -442,7 +442,6 @@
   ],
   "plugins": [
     {
-      "id": "plugin_0",
       "name": "Log Pro",
       "description": "log_pro is a custom logging package for Flutter that simplifies tracking and debugging app behavior. It supports various log levels, such as debug, info, warning, and error, allowing developers to categorize and filter logs effectively.",
       "image": "assets/icons/github.svg",
@@ -460,10 +459,10 @@
         "Debug",
         "Open Source"
       ],
-      "order": 0
+      "order": 0,
+      "id": "plugin_0"
     },
     {
-      "id": "plugin_1",
       "name": "LogPro Flutter",
       "description": "Log Pro Helper is a VS Code extension that simplifies adding logPro statements to your Flutter project.",
       "image": "assets/icons/github.svg",
@@ -478,10 +477,10 @@
         "Flutter",
         "VS Code"
       ],
-      "order": 1
+      "order": 1,
+      "id": "plugin_1"
     },
     {
-      "id": "plugin_2",
       "name": "Logger Helper",
       "description": "Logger Helper is a VS Code extension designed to make logging faster and more customizable.",
       "image": "assets/icons/github.svg",
@@ -496,10 +495,10 @@
         "Flutter",
         "VS Code"
       ],
-      "order": 1
+      "order": 1,
+      "id": "plugin_2"
     },
     {
-      "id": "plugin_3",
       "name": "Flutter JSON Auto-Translator",
       "description": "Auto-translate and sync Flutter localization JSON files from selected Dart strings. Supports both English and Arabic source text.",
       "image": "assets/icons/github.svg",
@@ -514,12 +513,12 @@
         "Flutter",
         "VS Code"
       ],
-      "order": 1
+      "order": 1,
+      "id": "plugin_3"
     }
   ],
   "experiences": [
     {
-      "id": "exp_0",
       "title": "Flutter Developer",
       "company": "Gulf Terminal Company",
       "startDate": "10/2024",
@@ -531,10 +530,10 @@
         "Developed cross-platform apps using Flutter and Dart",
         "Collaborated with designers and product managers in an Azure environment"
       ],
-      "order": 0
+      "order": 0,
+      "id": "exp_0"
     },
     {
-      "id": "exp_1",
       "title": "Flutter Developer",
       "company": "Qima Soft Company",
       "startDate": "08/2025",
@@ -543,10 +542,10 @@
       "location": "Cairo, Egypt",
       "workType": "Remote",
       "responsibilities": [],
-      "order": 0
+      "order": 0,
+      "id": "exp_1"
     },
     {
-      "id": "exp_2",
       "title": "Flutter Developer",
       "company": "Code7x Company",
       "startDate": "06/2024",
@@ -555,10 +554,10 @@
       "location": "Mansoura, Egypt",
       "workType": "On-site",
       "responsibilities": [],
-      "order": 0
+      "order": 0,
+      "id": "exp_2"
     },
     {
-      "id": "exp_3",
       "title": "Flutter Developer",
       "company": "Blush Bird Company",
       "startDate": "10/2023",
@@ -567,10 +566,10 @@
       "location": "Cairo, Egypt",
       "workType": "Remote",
       "responsibilities": [],
-      "order": 0
+      "order": 0,
+      "id": "exp_3"
     },
     {
-      "id": "exp_4",
       "title": "Engineer Officer, Head of IT Department",
       "company": "Aswan Military Hospital",
       "startDate": "12/2022",
@@ -579,10 +578,10 @@
       "location": "Aswan, Egypt",
       "workType": "On-site",
       "responsibilities": [],
-      "order": 0
+      "order": 0,
+      "id": "exp_4"
     },
     {
-      "id": "exp_5",
       "title": "Junior Flutter Developer",
       "company": "In Out Company",
       "startDate": "07/2021",
@@ -591,10 +590,10 @@
       "location": "Mansoura, Egypt",
       "workType": "On-site",
       "responsibilities": [],
-      "order": 0
+      "order": 0,
+      "id": "exp_5"
     },
     {
-      "id": "exp_6",
       "title": "Trainee Flutter Developer",
       "company": "CCIC",
       "startDate": "07/2020",
@@ -603,294 +602,304 @@
       "location": "Mansoura, Egypt",
       "workType": "Hybrid",
       "responsibilities": [],
-      "order": 0
+      "order": 0,
+      "id": "exp_6"
     }
   ],
   "educations": [
     {
-      "id": "edu_0",
       "degree": "Bachelor of Computers and Information Technology",
       "institution": "Mansoura University",
       "location": "Mansoura, Egypt",
       "duration": "🎓 2021",
       "description": "IT",
       "link": "https://university.edu/",
-      "order": 0
+      "order": 0,
+      "id": "edu_0"
     }
   ],
   "certifications": [
     {
-      "id": "cert_0",
+      "id": "cert_10",
+      "name": "5-Day AI Agents: Intensive Vibe Coding Course - by Kaggle and Google",
+      "organization": "Kaggle and Google",
+      "date": "06 /2026",
+      "skills": "AI Agents ",
+      "credential": "https://drive.google.com/file/d/1kZXugdzeybs85SjfCPrxCHncWxPE0fID/view?usp=drive_link",
+      "order": 10
+    },
+    {
       "name": "AI Hacks",
       "organization": "Madarek Academy",
       "date": "06 / 2026",
       "skills": "focused on practical Al applications including prompt optimization and workflow automation.",
       "credential": "https://drive.google.com/file/d/1L9MVD9-p-yRICeBo9zzd8C_D9mcYtVWi/view?usp=drive_link",
-      "order": 0
+      "order": 0,
+      "id": "cert_0"
     },
     {
-      "id": "cert_1",
       "name": "AI (Generate To Create)",
       "organization": "Madarek Academy",
       "date": "03 / 2026",
       "skills": "focused on the practical use of Al in marketing content creation and design.",
       "credential": "https://drive.google.com/file/d/1Lj_r84eeJAUnUQCZUwaAHLhjoZ3XJmzp/view?usp=drive_link",
-      "order": 1
+      "order": 1,
+      "id": "cert_1"
     },
     {
-      "id": "cert_2",
       "name": "What HR Actually Looks For in Candidates",
       "organization": "Madarek Academy",
       "date": "04 / 2026",
       "skills": "a session on real hiring expectations common graduate mistakes and practical steps to improve employability.",
       "credential": "https://drive.google.com/file/d/1xGFmWkxcGS4H0laUblObffpc8DL7xHin/view?usp=drive_link",
-      "order": 2
+      "order": 2,
+      "id": "cert_2"
     },
     {
-      "id": "cert_3",
       "name": "Mobile development",
       "organization": "Developer Student Clubs Al-Azhar University",
       "date": "12 / 2020",
       "skills": "For active participation and successfully completing Introduction to mobile development course",
       "credential": "https://drive.google.com/file/d/1sVagaFEeEjdHRui6HQkiSmXDdWn_S8zv/view?usp=drive_link",
-      "order": 3
+      "order": 3,
+      "id": "cert_3"
     },
     {
-      "id": "cert_4",
       "name": "Human Recources Essentials",
       "organization": "American Chamber of Commerce in Egypt",
       "date": "03 /2021",
       "skills": "Human Recources Essentials",
       "credential": "https://drive.google.com/file/d/1GhWlI4X4h83Pd4iLIdSGltynAivUuB6-/view?usp=drive_link",
-      "order": 4
+      "order": 4,
+      "id": "cert_4"
     },
     {
-      "id": "cert_5",
       "name": "Advanced Dart course of Flutter track",
       "organization": "Developer Student Clubs Al-Azhar University",
       "date": "02 /2021",
       "skills": "For active participation and successfully completing Advanced Dart course of Flutter track course",
       "credential": "https://drive.google.com/file/d/1DS8ab9dhcFgCX3kxMcVRGFhBYRH_75CL/view?usp=drive_link",
-      "order": 5
+      "order": 5,
+      "id": "cert_5"
     },
     {
-      "id": "cert_6",
       "name": "Flutter Payment",
       "organization": "Udemy",
       "date": "12 /2023",
       "skills": "Flutter Payment Integration: Stripe, PayPal",
       "credential": "https://drive.google.com/file/d/1mtVRGP15Y_k09SjWcgFdwmVBhhnVpitB/view?usp=drive_link",
-      "order": 6
+      "order": 6,
+      "id": "cert_6"
     },
     {
-      "id": "cert_7",
       "name": "Virtual Employability Skills Track",
       "organization": "Aspire Training Solutions",
       "date": "11 /2020",
       "skills": "Employability Skills",
       "credential": "https://drive.google.com/file/d/1loXRUsf81N2kG9Gq3Qc67MNsO-z9VsQN/view?usp=drive_link",
-      "order": 7
+      "order": 7,
+      "id": "cert_7"
     },
     {
-      "id": "cert_8",
       "name": "Flutter Training",
       "organization": "InOut",
       "date": "01 /2022",
       "skills": "flutter",
       "credential": "https://drive.google.com/file/d/1FyMY2-1QbwOJkUKou-PNszxFptiUiQCR/view?usp=drive_link",
-      "order": 8
+      "order": 8,
+      "id": "cert_8"
     },
     {
-      "id": "cert_9",
       "name": "Flutter Application Development",
       "organization": "CCIC - Mansoura University",
       "date": "11 /2020",
       "skills": "flutter",
       "credential": "https://drive.google.com/file/d/14-fEQmEo3NyEpiz_ohVZ2fl_KoxerkvM/view?usp=drive_link",
-      "order": 9
+      "order": 9,
+      "id": "cert_9"
     }
   ],
   "skills": [
     {
-      "id": "skill_0",
       "name": "Flutter",
       "category": "Mobile Development",
       "proficiency": 5,
-      "order": 0
+      "order": 0,
+      "id": "skill_0"
     },
     {
-      "id": "skill_1",
       "name": "Dart",
       "category": "Programming",
       "proficiency": 5,
-      "order": 1
+      "order": 1,
+      "id": "skill_1"
     },
     {
-      "id": "skill_2",
       "name": "Firebase",
       "category": "Backend",
       "proficiency": 4,
-      "order": 2
+      "order": 2,
+      "id": "skill_2"
     },
     {
-      "id": "skill_3",
       "name": "REST API",
       "category": "Web Services",
       "proficiency": 4,
-      "order": 3
+      "order": 3,
+      "id": "skill_3"
     },
     {
-      "id": "skill_4",
       "name": "MERN Stack",
       "category": "Web Development",
       "proficiency": 4,
-      "order": 4
+      "order": 4,
+      "id": "skill_4"
     },
     {
-      "id": "skill_5",
       "name": "JavaScript",
       "category": "Programming",
       "proficiency": 4,
-      "order": 5
+      "order": 5,
+      "id": "skill_5"
     },
     {
-      "id": "skill_6",
       "name": "TypeScript",
       "category": "Programming",
       "proficiency": 3,
-      "order": 6
+      "order": 6,
+      "id": "skill_6"
     },
     {
-      "id": "skill_7",
       "name": "Python",
       "category": "Programming",
       "proficiency": 3,
-      "order": 7
+      "order": 7,
+      "id": "skill_7"
     },
     {
-      "id": "skill_8",
       "name": "Arduino",
       "category": "IoT",
       "proficiency": 4,
-      "order": 8
+      "order": 8,
+      "id": "skill_8"
     },
     {
-      "id": "skill_9",
       "name": "UI/UX Design",
       "category": "Design",
       "proficiency": 4,
-      "order": 9
+      "order": 9,
+      "id": "skill_9"
     },
     {
-      "id": "skill_10",
       "name": "Figma",
       "category": "Design",
       "proficiency": 4,
-      "order": 10
+      "order": 10,
+      "id": "skill_10"
     },
     {
-      "id": "skill_11",
       "name": "Git",
       "category": "Version Control",
       "proficiency": 4,
-      "order": 11
+      "order": 11,
+      "id": "skill_11"
     },
     {
-      "id": "skill_12",
       "name": "Docker",
       "category": "DevOps",
       "proficiency": 3,
-      "order": 12
+      "order": 12,
+      "id": "skill_12"
     },
     {
-      "id": "skill_13",
       "name": "AWS",
       "category": "Cloud",
       "proficiency": 3,
-      "order": 13
+      "order": 13,
+      "id": "skill_13"
     },
     {
-      "id": "skill_14",
       "name": "Networking",
       "category": "IT",
       "proficiency": 4,
-      "order": 14
+      "order": 14,
+      "id": "skill_14"
     },
     {
-      "id": "skill_15",
       "name": "Cybersecurity",
       "category": "Security",
       "proficiency": 3,
-      "order": 15
+      "order": 15,
+      "id": "skill_15"
     }
   ],
   "videos": [],
   "shorts": [],
   "memories": [
     {
-      "id": "h1",
       "imagePath": "assets/images/eslam.jpg",
       "title": "Memory 1",
       "isVertical": false,
-      "order": 0
+      "order": 0,
+      "id": "h1"
     },
     {
-      "id": "h2",
       "imagePath": "assets/images/placeholder.jpg",
       "title": "Memory 2",
       "isVertical": false,
-      "order": 0
+      "order": 0,
+      "id": "h2"
     }
   ],
   "clients": [
     {
-      "id": "c1",
       "name": "Aziz",
       "role": "Client, Mostaql",
       "feedback": "يعطيه العافيه تعاملت معه وطبق الي ابغاه بالضبط .. شخص متعاون وسريع الرد ماقصر معي بكل شي / سلمني المشروع بوقت قياسي",
       "rating": 5,
-      "order": 0
+      "order": 0,
+      "id": "c1"
     },
     {
-      "id": "c2",
       "name": "OSama",
       "role": "Founder, Startup INOUT.",
       "feedback": "Highly recommended! They built a professional and responsive application for our business perfectly tailored to our requirements.",
       "rating": 5,
-      "order": 1
+      "order": 1,
+      "id": "c2"
     }
   ],
   "appPreviews": [],
   "awards": [
     {
-      "id": "a1",
       "title": "ITDS",
       "issuer": "Faculty of Computers and Information, Mansoura University",
       "date": "2018",
       "description": "- Awarded by the Faculty of Computers and Information, Mansoura University.\n- In recognition of active and positive participation in the Second Forum for IT Developers.\n- Held from 18 to 22 March, 2018.",
       "iconUrl": "https://cdn-icons-png.flaticon.com/512/3135/3135692.png",
       "link": "https://drive.google.com/file/d/1fZve4BswvlE9BpFS2toqvmgxuLxBZBd-/view?usp=sharing",
-      "order": 0
+      "order": 0,
+      "id": "a1"
     },
     {
-      "id": "a2",
       "title": "Social Media Specialist - CIS Student Activity",
       "issuer": "CIS",
       "date": "2022",
       "description": "- Served as the Social Media Specialist for the CIS (Computers and Information Society) student activity at the Faculty of Computers and Information, Mansoura University.\n- Responsibilities included planning and managing digital campaigns, creating engaging content, growing social media presence, and covering events and technical sessions.\n- Duration: January 2017 - January 2020.",
       "iconUrl": "https://cdn-icons-png.flaticon.com/512/2921/2921222.png",
       "link": "",
-      "order": 1
+      "order": 1,
+      "id": "a2"
     },
     {
-      "id": "a3",
       "title": "Certificate of Appreciation for Honorable Appearance and Military Discipline",
       "issuer": "Aswan Military Hospital",
       "date": "2024",
       "description": "Aswan Military Hospital certifies that Lieutenant (Reserves) Eslam Fares Ismail is commended for his honorable appearance, military discipline, and high-level, distinguished commitment to work. We wish him the best always, and God is the grantor of success.",
       "iconUrl": "https://cdn-icons-png.flaticon.com/512/2921/2921222.png",
       "link": "https://drive.google.com/file/d/1dA-KfdlRKyD-2hDpA8SHf-7J0TI0U67U/view?usp=drive_link",
-      "order": 2
+      "order": 2,
+      "id": "a3"
     }
   ]
 }
